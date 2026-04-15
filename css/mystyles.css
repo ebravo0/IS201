@@ -1,0 +1,84 @@
+/* Style #1: Body - background color, font family */
+body {
+    background-color: #1a1a2e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Style 2: Intro & Getting Started - font color and decoration */
+h1 {
+    color: #e0c46c;
+    text-decoration: underline;
+}
+
+/* Style 3: Essential Skills & Gear - font color */
+h2 {
+    color: #c084fc;
+}
+
+/* Style 4: Getting Started description - font color */
+p {
+    color: #ffffff;
+    font-size: 16px;
+}
+
+/* Style 5: Navigation Links - font color and family */
+nav a {
+    color: #e0c46c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+/* Style 6: ol and ul list text color */
+ol, ul {
+    color: #ffffff;
+    text-align: left;
+    display: block;
+}
+
+/* Div 1: intro section */
+#intro-section {
+    border: 2px solid #e0c46c;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+}
+
+/* Div 2: skills & gear section */
+#skills-section {
+    border: 2px solid #c084fc;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+}
+
+/* Div 3: video section */
+#video-section {
+    border: 2px solid #e0c46c;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+}
+
+/* Div 4: tableau section */
+#tableau-section {
+    border: 2px solid #c084fc;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+}
+
+/* Tableau placeholder styling */
+#tableau-placeholder {
+    color: #aaaaaa;
+    font-style: italic;
+    padding: 40px;
+    border: 1px dashed #aaaaaa;
+}
+
+/* Bottom anchor link */
+a {
+    color: #e0c46c;
+}
